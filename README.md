@@ -3,6 +3,7 @@
 There is no scrollbars, menus, and panels here. But you can toggle menu by pressing `<C-F1>`.
 
 `<C-T>` Fuzzy file search
+
 `<C-X><C-I>` - Omni completion
 
 DEPENDENCIES:
